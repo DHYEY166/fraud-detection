@@ -20,7 +20,7 @@ The dataset is a synthetic financial transaction dataset designed to simulate re
 .
 ├── README.md
 ├── notebooks/
-│   └── fraud_detection.ipynb
+│   └── fraud-detection.ipynb
 ├── requirements.txt
 └── src/
     ├── __init__.py
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 ## Usage
 1. Run the Jupyter notebook:
 ```bash
-jupyter notebook notebooks/fraud_detection.ipynb
+jupyter notebook notebooks/final.ipynb
 ```
 
 2. Or run the Python scripts:
